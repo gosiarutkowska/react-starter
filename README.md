@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React Root](https://github.com/facebook/create-react-app).
 
+## Add .env file in main directory (the same level as package.json) 
+in .env file add: 
+`NODE_PATH=src`
+it creates absolute paths
+
+## Install dependencies
+`npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
